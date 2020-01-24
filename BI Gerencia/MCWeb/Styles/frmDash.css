@@ -1,0 +1,173 @@
+﻿.td {
+	display:block;
+}
+
+a {
+	cursor: pointer;
+}
+ul{
+       list-style:none;
+       }
+
+#icon {
+	display : inline-block;
+	margin-top: 3px;
+}
+#icon2{
+	display : inline-block;
+	margin-top: 3px;
+	margin-left: 20%;
+}
+
+
+.container-border{
+ border: 1px solid #ccc;
+ border-radius: 15px;  
+ background-color: white;
+
+ }
+
+.table-fixed thead,
+.table-fixed tfoot{
+  width: 97%;
+}
+
+.table-fixed tbody {
+  height: 230px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tfoot,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+  display: block;
+}
+
+.table-fixed tbody td,
+.table-fixed thead > tr> th,
+.table-fixed tfoot > tr> td{
+  float: left;
+  border-bottom-width: 0;
+}
+aside, section {
+	background-color: white;
+}
+
+
+@media screen and (min-width: 800px) {
+
+	aside, section {
+		float:left;
+		background-color: white;
+	}
+	section {
+		width: 78%;
+	
+		border: 1px solid #ccc;
+		border-radius: 7px; 
+		margin-left: 10px;
+	}
+	aside {
+		border: 1px solid #ccc;
+		border-radius: 7px; 
+		width: 20%;
+	
+		margin-left: 10px;
+	}
+	#encabezados {
+		margin-left:15px;
+	}
+	#panel {
+		margin-left:15px;
+	}
+	.td {
+		display:inline-block;
+		
+	} 
+	.form-control {
+	width:180px;
+	} 
+	.table-fixed thead,
+.table-fixed tfoot{
+  width: 97%;
+}
+
+.table-fixed tbody {
+  height: 230px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tfoot,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+  display: block;
+}
+
+.table-fixed tbody td,
+.table-fixed thead > tr> th,
+.table-fixed tfoot > tr> td{
+  float: left;
+  border-bottom-width: 0;
+}
+}
+
+
+@media screen and (min-width: 1025px) {
+	.td {
+		display:inline-block;
+		
+	}
+	aside, section {
+		float:left;
+		background-color: white;
+	}
+	section {
+		width: 78%;
+	
+		border: 1px solid #ccc;
+		border-radius: 7px; 
+		margin-left: 10px;
+	}
+	aside {
+		border: 1px solid #ccc;
+		border-radius: 7px; 
+		width: 20%;
+	
+		margin-left: 10px;
+	}
+	.form-control {
+	width:180px;
+	width: 97%;
+}
+
+.table-fixed tbody {
+  height: 230px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tfoot,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+  display: block;
+}
+
+.table-fixed tbody td,
+.table-fixed thead > tr> th,
+.table-fixed tfoot > tr> td{
+  float: left;
+  border-bottom-width: 0;
+}
+	} 
+}

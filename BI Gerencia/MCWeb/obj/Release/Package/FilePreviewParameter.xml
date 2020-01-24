@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Hogar" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\inetpub\\wwwroot\\MCWebHogar\\MCWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\inetpub\\wwwroot\\MCWebHogar\\MCWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Seguridad-Web.config Connection String" description="Seguridad Connection String used in web.config by the application to access the database." value="Data Source=LNI5\SQLEXPRESS;Initial Catalog=aspnetdb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\inetpub\\wwwroot\\MCWebHogar\\MCWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Seguridad']/@connectionString" />
+  </parameter>
+  <parameter name="siawindb-Web.config Connection String" description="siawindb Connection String used in web.config by the application to access the database." value="Server=201.193.217.222;Database=siawin0;User ID=dvargas;Password=Davyvf512$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\inetpub\\wwwroot\\MCWebHogar\\MCWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='siawindb']/@connectionString" />
+  </parameter>
+  <parameter name="CEMDB-Web.config Connection String" description="CEMDB Connection String used in web.config by the application to access the database." value="Server=201.193.217.222;Database=CEM0;User ID=dvargas;Password=Davyvf512$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\inetpub\\wwwroot\\MCWebHogar\\MCWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CEMDB']/@connectionString" />
+  </parameter>
+</parameters>

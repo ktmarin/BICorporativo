@@ -1,0 +1,1444 @@
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.dll.config
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaDatos.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaLogica.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaDatos.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaLogica.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\emoreira\Desktop\MCWebHogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\Emanuel\MCWebHogar\MCWeb\bin\FUA.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.pdb
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaDatos.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaLogica.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaDatos.pdb
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaLogica.pdb
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\avarela\Desktop\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS- Ampliacion\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\Emanuel\Versiones\MCWebHogar CRMS\MCWebHogar CRMS\MCWebHogar CRMS\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Files\MCWebHogar CRMS\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\CRM Paneltec08-09-17\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\31-08-2017\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec22-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\emoreira\Desktop\PANELTEC\21-09-2017\CRM Paneltec26-09\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.xml
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\ClosedXML.pdb
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\ClosedXML.xml
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\JOSE\Desktop\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.pdb
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.xml
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Usuario\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaDatos.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaLogica.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\GMaps.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaDatos.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\CapaLogica.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\ClosedXML.xml
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\PanelTec\CRMPanelTec\CRM Paneltec\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\MCWebHogar.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\CapaDatos.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\CapaLogica.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\GMaps.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\CapaDatos.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\CapaLogica.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\ClosedXML.pdb
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\ClosedXML.xml
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Emanuel Moreira\Desktop\Desarrollo\Euromobilia\CRMEuromobilia\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\MCWebHogar.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaDatos.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaLogica.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\GMaps.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaDatos.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\CapaLogica.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\CRM Euromobilia\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+D:\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Pia\Documents\Pia Ortiz\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Pia\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\piiiaa\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Pia\Documents\Pia Ortiz\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Randy.Gutierrez\Desktop\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+I:\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 749pm trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 9am con popop trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm con popop trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo a las 10pm Trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\08-02-2019 respaldo al domingo a las 5\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 al domingo trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\24-02 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\03-03 ultima version trabajando - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\es\System.Web.Http.resources.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - cOPIA SIN DASH - copia\CRM Altea\CRM Altea\MCWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\es\System.Web.Http.resources.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.xml
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\es\System.Web.Http.resources.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\28-03 FINAL CRM - Con Dash\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\CRM NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\System.Web.Http.xml
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM SAC NUEVA VERSION\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Desktop\SAC NUEVAS VERSIONES\CRM SAC NUEVA VERSION3\CRM Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\MCWebHogar.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\MCWebHogar.pdb
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\CapaLogica.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\GMaps.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\CapaLogica.pdb
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Reportes\CRMHOGAR\HOGAR-Cotizacion.rdlc
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Reportes\ContratoCocinas.rdlc
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\MCWebHogar.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\GMaps.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\System.Web.Http.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\System.Web.Http.xml
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\es\System.Web.Http.resources.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.csproj.GenerateResource.Cache
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\RdlCompile.cache
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Davy Vargas\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\MCWebHogar.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaDatos.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaLogica.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\GMaps.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaDatos.pdb
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\CapaLogica.pdb
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Randy.Gutierrez\Documents\GitHub\Compras-Internacionales\Compras Internacionales\MCWeb\obj\Debug\MCWebHogar.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\MCWebHogar.dll.config
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\MCWebHogar.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\MCWebHogar.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\AjaxControlToolkit.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\CapaDatos.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\CapaLogica.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\GMaps.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\System.Web.Http.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\CapaDatos.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\CapaLogica.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\DocumentFormat.OpenXml.xml
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\System.Web.Http.xml
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\es\System.Web.Http.resources.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\obj\Debug\MCWebHogar.csprojResolveAssemblyReference.cache
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\obj\Debug\MCWebHogar.dll
+C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\MCWeb\obj\Debug\MCWebHogar.pdb

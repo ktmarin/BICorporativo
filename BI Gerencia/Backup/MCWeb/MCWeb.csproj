@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4110E20C-011B-4B7B-B6DC-95AF3E4CA031}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCWeb</RootNamespace>
+    <AssemblyName>MCWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PublishDatabases>true</PublishDatabases>
+    <FilesToIncludeForPublish>AllFilesInProjectFolder</FilesToIncludeForPublish>
+    <PublishDatabaseSettings>
+      <Objects>
+        <ObjectGroup Name="siawindb-Deployment" Order="1">
+          <Destination Path="" />
+          <Object Type="dbFullSql">
+            <PreSource Path="Data Source=181.193.35.218,1433%3bInitial Catalog=siawin0%3bUser ID=dvargas%3bPassword=Davyvf512%24" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" />
+            <Source Path="obj\Debug\AutoScripts\siawindb-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+        <ObjectGroup Name="CEMDB-Deployment" Order="2">
+          <Destination Path="" />
+          <Object Type="dbFullSql">
+            <PreSource Path="Data Source=181.193.35.218,1433%3bInitial Catalog=CEM0%3bUser ID=dvargas%3bPassword=Davyvf512%24" ScriptSchema="True" ScriptData="False" CopyAllFullTextCatalogs="False" />
+            <Source Path="obj\Debug\AutoScripts\CEMDB-Deployment_SchemaOnly.sql" Transacted="True" />
+          </Object>
+        </ObjectGroup>
+      </Objects>
+    </PublishDatabaseSettings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\..\..\Users\Davy Vargas\Downloads\CollapsePanelSample\CollapsePanelSample\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="BasicFrame.WebControls.BasicDatePicker, Version=1.4.3.40829, Culture=neutral, PublicKeyToken=e1cce521aa9b4849, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Telerik.Reporting, Version=7.1.13.802, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
+    <Reference Include="Telerik.Web.UI, Version=2013.2.717.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="Facturacion\FRMCC01MenuBuscar.aspx" />
+    <Content Include="Facturacion\FRMCotizarMenu.aspx" />
+    <Content Include="Facturacion\FRMFAC00Menu.aspx" />
+    <Content Include="Facturacion\FRMFAC00MenuBuscar.aspx" />
+    <Content Include="FRMLogin.aspx" />
+    <Content Include="images\Add-32.png" />
+    <Content Include="images\Calendar_schedule.png" />
+    <Content Include="images\editar.gif" />
+    <Content Include="images\Imagen3.png" />
+    <Content Include="images\loader.gif" />
+    <Content Include="images\ajax-loader.gif" />
+    <Content Include="images\altea_logo.jpg" />
+    <Content Include="images\altea_logo.png" />
+    <Content Include="images\bar2.png" />
+    <Content Include="images\barra.png" />
+    <Content Include="images\barraazul.png" />
+    <Content Include="images\BarraGris.png" />
+    <Content Include="images\barragrisclaro.png" />
+    <Content Include="images\bgbodytest.png" />
+    <Content Include="images\bg_btm_nav_cel.gif" />
+    <Content Include="images\binocular.png" />
+    <Content Include="images\box_bg.gif" />
+    <Content Include="images\btn_more.gif" />
+    <Content Include="images\button_black_ffw-48.png" />
+    <Content Include="images\button_black_first-48.png" />
+    <Content Include="images\button_black_last-48.png" />
+    <Content Include="images\button_black_rew-48.png" />
+    <Content Include="images\Cart-48.png" />
+    <Content Include="images\Chrome-32.png" />
+    <Content Include="images\deletered_32.png" />
+    <Content Include="images\Edit-32.png" />
+    <Content Include="images\espaciadorgrisoscuto.png" />
+    <Content Include="images\EstiloPrincipal.css" />
+    <Content Include="images\Firefox-32 %281%29.png" />
+    <Content Include="images\fondoinicio.png" />
+    <Content Include="images\green_design.gif" />
+    <Content Include="images\GrisClaro3D.png" />
+    <Content Include="images\index.html" />
+    <Content Include="images\logoeuromobilia.gif" />
+    <Content Include="images\nav_bg.png" />
+    <Content Include="images\nav_li_bg.png" />
+    <Content Include="images\productheader_divider.jpg" />
+    <Content Include="images\Safari-32.png" />
+    <Content Include="images\Search-48.png" />
+    <Content Include="images\sec_logoeuromobilia.gif" />
+    <Content Include="images\select_32.png" />
+    <Content Include="images\Shopping cart-48.png" />
+    <Content Include="images\style.css" />
+    <Content Include="images\t-loader.gif" />
+    <Content Include="images\Update-32.png" />
+    <Content Include="Productos\FRMBuscarFamilia.aspx" />
+    <Content Include="Reportes\FRMREFACMenuVentasVendedor.aspx" />
+    <Content Include="Reportes\FRMREINV04MenuFGP.aspx" />
+    <Content Include="ImagenesProductos\basel1.jpg" />
+    <Content Include="ImagenesProductos\basel2.jpg" />
+    <Content Include="ImagenesProductos\basel3.jpg" />
+    <Content Include="ImagenesProductos\basel5.jpg" />
+    <Content Include="ImagenesProductos\nodisponible.png" />
+    <Content Include="CatalogodeProductos.aspx" />
+    <Content Include="Productos\FRMBuscarProducto.aspx" />
+    <Content Include="Productos\FRMIM02Menu.aspx" />
+    <Content Include="Productos\FRMIMV02Menu.aspx" />
+    <Content Include="Productos\FRMINV04Menu.aspx" />
+    <Content Include="Productos\getthumb.aspx" />
+    <Content Include="Productos\viewimage.aspx" />
+    <Content Include="Rotaciones\FRMRotacionesInforme.aspx" />
+    <Content Include="Rotaciones\FRMRotacionesMenu.aspx" />
+    <Content Include="Scripts\autocomplete.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\easySlider1.7.js" />
+    <Content Include="Scripts\FormatoFecha\FormatoFecha.css" />
+    <Content Include="Scripts\FormatoFecha\jqueryFecha-ui.min.js" />
+    <Content Include="Scripts\FormatoFecha\jqueryFecha.min.js" />
+    <Content Include="Scripts\jquery-1.3.min.js" />
+    <Content Include="Scripts\jquery-1.5.2.min.js" />
+    <Content Include="Scripts\jquery-1.6.2-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.6.2.min.js" />
+    <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <Content Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-2.1.1.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.18.custom.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\jquery.jshowoff.js" />
+    <Content Include="Scripts\jquery.jshowoff.min.js" />
+    <Content Include="Scripts\json2.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\popuporderedit.js" />
+    <Content Include="Scripts\scotia.utiles.dialogs.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Styles\bootstrap.css" />
+    <Content Include="Styles\jquery-ui-1.8.18.custom.css" />
+    <Content Include="Styles\jquery-ui-1.8.21.custom.css" />
+    <Content Include="Styles\jshowoff.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Styles\style.css" />
+    <Content Include="test.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebService\LGXmlServices.asmx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CEM0DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CEM0DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DSCatalogoProductos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSCatalogoProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DSReportesVentas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSReportesVentas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Facturacion\FRMCC01MenuBuscar.aspx.cs">
+      <DependentUpon>FRMCC01MenuBuscar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Facturacion\FRMCC01MenuBuscar.aspx.designer.cs">
+      <DependentUpon>FRMCC01MenuBuscar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Facturacion\FRMCotizarMenu.aspx.cs">
+      <DependentUpon>FRMCotizarMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Facturacion\FRMCotizarMenu.aspx.designer.cs">
+      <DependentUpon>FRMCotizarMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Facturacion\FRMFAC00Menu.aspx.cs">
+      <DependentUpon>FRMFAC00Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Facturacion\FRMFAC00Menu.aspx.designer.cs">
+      <DependentUpon>FRMFAC00Menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Facturacion\FRMFAC00MenuBuscar.aspx.cs">
+      <DependentUpon>FRMFAC00MenuBuscar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Facturacion\FRMFAC00MenuBuscar.aspx.designer.cs">
+      <DependentUpon>FRMFAC00MenuBuscar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FRMLogin.aspx.cs">
+      <DependentUpon>FRMLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FRMLogin.aspx.designer.cs">
+      <DependentUpon>FRMLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\FRMBuscarFamilia.aspx.cs">
+      <DependentUpon>FRMBuscarFamilia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productos\FRMBuscarFamilia.aspx.designer.cs">
+      <DependentUpon>FRMBuscarFamilia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FRMREFACMenuVentasVendedor.aspx.cs">
+      <DependentUpon>FRMREFACMenuVentasVendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\FRMREFACMenuVentasVendedor.aspx.designer.cs">
+      <DependentUpon>FRMREFACMenuVentasVendedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FRMREINV04MenuFGP.aspx.cs">
+      <DependentUpon>FRMREINV04MenuFGP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\FRMREINV04MenuFGP.aspx.designer.cs">
+      <DependentUpon>FRMREINV04MenuFGP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.Master.cs">
+      <DependentUpon>MenuPrincipal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Master.designer.cs">
+      <DependentUpon>MenuPrincipal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogodeProductos.aspx.cs">
+      <DependentUpon>CatalogodeProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CatalogodeProductos.aspx.designer.cs">
+      <DependentUpon>CatalogodeProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\FRMBuscarProducto.aspx.cs">
+      <DependentUpon>FRMBuscarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productos\FRMBuscarProducto.aspx.designer.cs">
+      <DependentUpon>FRMBuscarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\FRMIM02Menu.aspx.cs">
+      <DependentUpon>FRMIM02Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productos\FRMIM02Menu.aspx.designer.cs">
+      <DependentUpon>FRMIM02Menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\FRMIMV02Menu.aspx.cs">
+      <DependentUpon>FRMIMV02Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productos\FRMIMV02Menu.aspx.designer.cs">
+      <DependentUpon>FRMIMV02Menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\FRMINV04Menu.aspx.cs">
+      <DependentUpon>FRMINV04Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Productos\FRMINV04Menu.aspx.designer.cs">
+      <DependentUpon>FRMINV04Menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\rpt\TelerikTest.cs" />
+    <Compile Include="Reportes\rpt\TelerikTest.Designer.cs">
+      <DependentUpon>TelerikTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotaciones\FRMRotacionesInforme.aspx.cs">
+      <DependentUpon>FRMRotacionesInforme.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rotaciones\FRMRotacionesInforme.aspx.designer.cs">
+      <DependentUpon>FRMRotacionesInforme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Rotaciones\FRMRotacionesMenu.aspx.cs">
+      <DependentUpon>FRMRotacionesMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rotaciones\FRMRotacionesMenu.aspx.designer.cs">
+      <DependentUpon>FRMRotacionesMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteMaster.Master.cs">
+      <DependentUpon>SiteMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteMaster.Master.designer.cs">
+      <DependentUpon>SiteMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="test.aspx.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test.aspx.designer.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebService\LGXmlServices.asmx.cs">
+      <DependentUpon>LGXmlServices.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MenuPrincipal.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{84F0D03E-9B1E-474C-A191-7926727D2092}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
+      <Project>{9459F4BD-E5BD-48D9-91D5-40B1FC3874F2}</Project>
+      <Name>CapaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SiteMaster.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CEM0DataSet.xsc">
+      <DependentUpon>CEM0DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CEM0DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CEM0DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CEM0DataSet.xss">
+      <DependentUpon>CEM0DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DSCatalogoProductos.xsc">
+      <DependentUpon>DSCatalogoProductos.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DSCatalogoProductos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSCatalogoProductos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Data\DSCatalogoProductos.xss">
+      <DependentUpon>DSCatalogoProductos.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DSReportesVentas.xsc">
+      <DependentUpon>DSReportesVentas.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DSReportesVentas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSReportesVentas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Data\DSReportesVentas.xss">
+      <DependentUpon>DSReportesVentas.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Reportes\rpt\rptVentasVendorResumido.rdlc" />
+    <EmbeddedResource Include="Reportes\rpt\TelerikTest.resx">
+      <DependentUpon>TelerikTest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotaciones\Reportes\rptReporteRotacionesProveedor.rdlc" />
+    <EmbeddedResource Include="rptLPGlobalGeneral.rdlc" />
+    <EmbeddedResource Include="rptLPGlobal.rdlc" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>24810</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

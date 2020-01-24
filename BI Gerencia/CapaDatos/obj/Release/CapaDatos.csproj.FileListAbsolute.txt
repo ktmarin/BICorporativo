@@ -1,0 +1,82 @@
+C:\inetpub\wwwroot\MCWeb\CapaDatos\bin\CapaDatos.dll.config
+C:\inetpub\wwwroot\MCWeb\CapaDatos\bin\CapaDatos.dll
+C:\inetpub\wwwroot\MCWeb\CapaDatos\bin\CapaDatos.pdb
+C:\inetpub\wwwroot\MCWeb\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MCWeb\CapaDatos\obj\Release\CapaDatos.dll
+C:\inetpub\wwwroot\MCWeb\CapaDatos\obj\Release\CapaDatos.pdb
+C:\inetpub\wwwroot\MCWebHogar\CapaDatos\bin\CapaDatos.dll.config
+C:\inetpub\wwwroot\MCWebHogar\CapaDatos\bin\CapaDatos.dll
+C:\inetpub\wwwroot\MCWebHogar\CapaDatos\bin\CapaDatos.pdb
+C:\inetpub\wwwroot\MCWebHogar\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MCWebHogar\CapaDatos\obj\Release\CapaDatos.dll
+C:\inetpub\wwwroot\MCWebHogar\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Euromobilia Hogar\CRM Euromobilia\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\12-12-2018 Hogar\Hogar\Proyecto Hogar\CRM Euromobilia Hogar\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\Empresa\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\michael.santos\Documents\CRM\CRM FINAL\05-03 ultima version trabajando -con Crm - Copy\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\CapaDatos.pdb
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\michael.santos\Desktop\SAC-CRM 1.1\28-03 FINAL CRM - Con Dash\CRM Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\CapaDatos.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\CapaDatos.pdb
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\AjaxControlToolkit.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\michael.santos\Documents\GitHub\CRM-Altea\CRM Altea\CapaDatos\obj\Release\CapaDatos.pdb

@@ -1,0 +1,62 @@
+c:\users\davy vargas\documents\visual studio 2010\Projects\MCWeb\MCWeb\bin\MCWeb.dll
+c:\users\davy vargas\documents\visual studio 2010\Projects\MCWeb\MCWeb\bin\MCWeb.pdb
+c:\users\davy vargas\documents\visual studio 2010\Projects\MCWeb\MCWeb\obj\Debug\MCWeb.dll
+c:\users\davy vargas\documents\visual studio 2010\Projects\MCWeb\MCWeb\obj\Debug\MCWeb.pdb
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\bin\MCWeb.dll
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\bin\MCWeb.pdb
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\bin\CapaDatos.dll
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\bin\CapaLogica.dll
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\bin\CapaDatos.pdb
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\bin\CapaLogica.pdb
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\obj\Debug\MCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\obj\Debug\MCWeb.dll
+C:\Users\Davy Vargas\Desktop\MCWeb\MCWeb\obj\Debug\MCWeb.pdb
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\MCWeb.dll.config
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\MCWeb.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\MCWeb.pdb
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\MCWeb.dll.CodeAnalysisLog.xml
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\MCWeb.dll.lastcodeanalysissucceeded
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\AjaxControlToolkit.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\CapaDatos.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\CapaLogica.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\CapaDatos.pdb
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\CapaLogica.pdb
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\AjaxControlToolkit.pdb
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\ar\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\de\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\es\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\fr\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\he\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\hi\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\it\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\ja\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\ko\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\pt\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\ru\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\MCWeb.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\MCWeb.Reportes.rpt.TelerikTest.resources
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\MCWeb.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\RdlCompile.cache
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\RdlCompile.compiled
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\MCWeb.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\obj\Debug\MCWeb.pdb
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\ClosedXML.dll
+C:\inetpub\wwwroot\MCWeb\MCWeb\bin\DocumentFormat.OpenXml.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaDatos.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaLogica.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaDatos.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\CapaLogica.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWeb.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWeb.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\RdlCompile.cache
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\RdlCompile.compiled
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.Reportes.rpt.TelerikTest.resources
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.dll.config
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.pdb
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.dll.CodeAnalysisLog.xml
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\bin\MCWebHogar.dll.lastcodeanalysissucceeded
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.dll
+C:\inetpub\wwwroot\MCWebHogar\MCWeb\obj\Debug\MCWebHogar.pdb

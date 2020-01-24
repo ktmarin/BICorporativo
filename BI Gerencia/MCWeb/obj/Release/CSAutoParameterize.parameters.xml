@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Seguridad-Web.config Connection String" description="Seguridad Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LNI5\SQLEXPRESS;Initial Catalog=aspnetdb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\michael\.santos\\Documents\\GitHub\\CRM-Altea\\CRM\ Altea\\MCWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Seguridad']/@connectionString" />
+  </parameter>
+  <parameter name="siawindb-Web.config Connection String" description="siawindb Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=192.168.12.3;Database=siawin0;User ID=web001;Password=Rj452016$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\michael\.santos\\Documents\\GitHub\\CRM-Altea\\CRM\ Altea\\MCWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='siawindb']/@connectionString" />
+  </parameter>
+  <parameter name="CEMDB-Web.config Connection String" description="CEMDB Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=192.168.12.3;Database=CRM0;User ID=web001;Password=Rj452016$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\michael\.santos\\Documents\\GitHub\\CRM-Altea\\CRM\ Altea\\MCWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CEMDB']/@connectionString" />
+  </parameter>
+</parameters>
