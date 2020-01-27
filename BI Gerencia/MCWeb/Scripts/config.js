@@ -54,10 +54,6 @@
             document.getElementById("btnAddUser").click();
 
         });
-
-
-
-
     }
 
     this.clearFields = function (array) {
@@ -214,6 +210,7 @@
         deleteOb = Obj;
         document.getElementById("btnMdConfirm").click();
     }
+
     this.clickDelete = function () {
         configs.delete(deleteOb);
         document.getElementById("btnNo").click();

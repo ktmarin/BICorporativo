@@ -58,7 +58,7 @@
                     <!-- mini logo for sidebar mini 50x50 pixels -->
                     <span class="logo-mini">BI</span>
                     <!-- logo for regular state and mobile devices -->
-                    <span class="logo-lg"><b>BI</b></span>
+                    <span class="logo-lg"><b>BI</b>Corporativo</span>
                 </a>
                 <!-- Header Navbar: style can be found in header.less -->
                 <nav class="navbar navbar-static-top">
@@ -81,6 +81,12 @@
                                                 <a href="./frmUsuario.aspx" style="color:#4f616c;">
                                                     <span class="fa fa-user-circle"></span>
                                                     &nbsp; Usuarios
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="./frmEmpresa.aspx" style="color:#4f616c;">
+                                                    <span class="fa fa-building"></span>
+                                                    &nbsp; Empresas
                                                 </a>
                                             </li>
                                            
@@ -106,6 +112,9 @@
                         </div>
                         <div class="pull-left info">
                             <a href="#"><i class="fa fa-circle text-success"></i>En línea</a>
+                            <br /><br />
+                            <asp:Label Text="Bienvenido (a)" Font-Size="Smaller" runat="server" ID="lblNombre" />
+
                         </div>
                     </div>
                     <ul class="sidebar-menu" data-widget="tree">

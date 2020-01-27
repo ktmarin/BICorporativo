@@ -205,6 +205,57 @@ namespace CapaLogica
             return 0;
         }
 
+        public static string nombreU(string usuario, string contrasena, string IP, ref string error2)
+        {
+
+            DataTable dt = null;
+            string resultado = "";
+            try
+            {
+                UserDB DB = new UserDB(WebConfigurationManager.ConnectionStrings["siawindb"].ConnectionString, WebConfigurationManager.ConnectionStrings["CEMDB"].ConnectionString, "dvargas");
+                GestorAccess.Conectividad(DB);
+
+                Parametros = new ArrayList();
+
+                Parametro = new SqlParameter("Usuario", SqlDbType.VarChar);
+                Parametro.Value = usuario;
+                Parametros.Add(Parametro);
+
+                Parametro = new SqlParameter("contrasena", SqlDbType.VarChar);
+                Parametro.Value = contrasena;
+                Parametros.Add(Parametro);
+
+                //Parametro = new SqlParameter("IPMaquina", SqlDbType.VarChar);
+                //Parametro.Value = IP;
+                //Parametros.Add(Parametro);
+
+                string error = "";
+
+                if (DataAccess.EjecutarProcedimientoAlmacenado2("BIG00_Login", Parametros, ref dt, conexion, ref error))
+                {
+                    if (error != "")
+                    {
+                        error2 = error;
+                        GestorSQLserver.EscribirLog(error);
+                    }
+                    if (dt != null && dt.Rows.Count > 0)
+                    {
+                        resultado = dt.Rows[0][1].ToString();
+                    }
+                    else
+                    {
+                        resultado = "";
+                    }
+                    return resultado;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                return resultado;
+            }
+            return resultado;
+        }
         public static int Login2(string usuario, string contrasena, string IP, ref string error2)
         {
            

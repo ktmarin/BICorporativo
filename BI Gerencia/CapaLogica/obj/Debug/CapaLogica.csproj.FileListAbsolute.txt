@@ -512,3 +512,15 @@ C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\CapaLog
 C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
 C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\Kattia Marin\Documents\GitHub\BIGerencia\BIGerencia\BI Gerencia\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\CapaLogica.dll.config
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\CapaLogica.dll
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\CapaLogica.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\AjaxControlToolkit.dll
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\CapaDatos.dll
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\bin\CapaDatos.pdb
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Kattia Marin\Documents\GitHub\BICorporativo\BI Gerencia\CapaLogica\obj\Debug\CapaLogica.pdb

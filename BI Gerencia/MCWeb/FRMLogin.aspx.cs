@@ -48,6 +48,7 @@ namespace MCWebHogar.CRMVertice
 
                                 }
 
+                 
 
                                 Session.Add("UserId", nombre);
                                 if (Session["UserId"] != null)
@@ -114,7 +115,7 @@ namespace MCWebHogar.CRMVertice
                         Session.Add("CodVendedor", CodVendedor);
                         Session.Add("NombreVendedor", NombreVendedor);
                     }
-                     
+                    Session.Add("UserName", GestorIN04.nombreU(nombre, pwd, IP, ref error));
                     if (Session["UserId"] != null)
                     {
                         Response.Redirect("CRM/frmPanel.aspx", false);

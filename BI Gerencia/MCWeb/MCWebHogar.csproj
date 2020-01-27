@@ -6387,6 +6387,8 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="CRM\empresaController.aspx" />
+    <Content Include="CRM\frmEmpresa.aspx" />
     <Content Include="CRM\masterController.aspx" />
     <Content Include="CRM\panelController.aspx" />
     <Content Include="CRM\usuarioController.aspx" />
@@ -7459,6 +7461,7 @@
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\config.js" />
     <Content Include="Scripts\editor.js" />
+    <Content Include="Scripts\empresa.js" />
     <Content Include="Scripts\exporting.js" />
     <Content Include="Scripts\exporting.src.js" />
     <Content Include="Scripts\frmDash.js" />
@@ -7641,6 +7644,20 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CEM0DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CRM\empresaController.aspx.cs">
+      <DependentUpon>empresaController.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRM\empresaController.aspx.designer.cs">
+      <DependentUpon>empresaController.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CRM\frmEmpresa.aspx.cs">
+      <DependentUpon>frmEmpresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CRM\frmEmpresa.aspx.designer.cs">
+      <DependentUpon>frmEmpresa.aspx</DependentUpon>
     </Compile>
     <Compile Include="CRM\masterController.aspx.cs">
       <DependentUpon>masterController.aspx</DependentUpon>

@@ -14,6 +14,7 @@ namespace MCWebHogar
             if (Session["UserId"] != null)
             {
                 lblUsuario.Text =Session["UserId"].ToString();
+                lblNombre.Text = lblNombre.Text+" "+Session["UserName"].ToString()+"!";
             }
   
         }
