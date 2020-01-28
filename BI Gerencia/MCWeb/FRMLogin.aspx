@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head runat="server">
-    <title>CRM Altea Design</title>
+    <title>BI</title>
     <meta charset="utf-8" />
 
     <%--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />--%>

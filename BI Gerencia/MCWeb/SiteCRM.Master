@@ -42,12 +42,15 @@
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
-<script>
-  
-</script>
+
    
     
 <body id="bdBarra" class="hold-transition skin-blue sidebar-mini">
+    <style>
+        #lblNombre {
+            font-size:10px;
+        }
+    </style>
     <form id="form1" runat="server">
        
         <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true"></asp:ScriptManager>
@@ -113,7 +116,7 @@
                         <div class="pull-left info">
                             <a href="#"><i class="fa fa-circle text-success"></i>En línea</a>
                             <br /><br />
-                            <asp:Label Text="Bienvenido (a)" Font-Size="Smaller" runat="server" ID="lblNombre" />
+                            <asp:Label Text="Bienvenido (a)"  runat="server" ID="lblNombre" />
 
                         </div>
                     </div>
@@ -137,9 +140,9 @@
             </div>
             <footer class="main-footer">
                 <div class="pull-right hidden-xs">
-                    <b>Version</b> 2.4.18
+                    <b>Version</b> 1.0.1
                 </div>
-                <strong>Copyright &copy; 2014-2019 <a href="https://adminlte.io">AdminLTE</a>.</strong> All rights reserved.
+                <strong>Copyright &copy; 2020 
             </footer>
             <aside class="control-sidebar control-sidebar-dark">
                 <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
